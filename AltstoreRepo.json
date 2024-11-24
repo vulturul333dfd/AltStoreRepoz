@@ -11,6 +11,26 @@
     "com.savetheworld.game",
     "com.example.anotherapp"
   ],
-  "apps": [],
+"apps": [
+    {
+        "name": "My Little Universe ULTRA",
+        "bundleIdentifier": "com.savetheworld.game",
+        "marketplaceID": "12345678",
+        "developerName": "Esoty",
+        "subtitle": "An awesome game.",
+        "localizedDescription": "This is an awesome app only available on AltStore.",
+        "iconURL": "https://example.com/myapp_icon.png",
+        "tintColor": "#F54F32",
+        "category": "games",
+        "screenshots": [
+            "https://example.com/myapp_screenshot1.png",
+            "https://example.com/myapp_screenshot2.png",
+            "https://example.com/myapp_screenshot3.png"
+        ],
+        "versions": [],
+        "appPermissions": {},
+        "patreon": {},
+    },
+]
   "news": [],
 }
