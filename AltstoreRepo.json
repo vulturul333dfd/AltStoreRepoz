@@ -1,14 +1,14 @@
 {
-  "name": "My Example Source",
-  "subtitle": "A source for all of my apps",
-  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "name": "VOLTZ SOURCE",
+  "subtitle": "All apps you could possibly need",
+  "description": "This source contains some essential apps",
   "iconURL": "https://example.com/source_icon.png",
   "headerURL": "https://example.com/source_header.png",
   "website": "https://example.com",
-  "patreonURL": "https://patreon.com/mycampaign"
-  "tintColor": "#F54F32",
+  "patreonURL": "null"
+  "tintColor": "#66ff66 ",
   "featuredApps": [
-    "com.example.myapp",
+    "com.savetheworld.game",
     "com.example.anotherapp"
   ],
   "apps": [],
